@@ -1,2 +1,2 @@
-#Heading
+# Heading
 This is a sample repo
